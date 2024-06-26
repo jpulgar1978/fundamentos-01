@@ -5,4 +5,5 @@ print("Pedro")
 
 a=[]
 
-a.append("Hola")
+for texto in a:
+    print(texto)
